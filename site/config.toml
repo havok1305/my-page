@@ -1,20 +1,20 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Nix Theme"
+title = "Igor Martins"
 theme = "hugo-theme-nix"
 
 [params]
-  GithubID = "your_github"
+  GithubID = "havok1305"
   TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
+  LinkedInID = "https://www.linkedin.com/in/igor-martins-de-souza-58435b107/"
   GoogleplusID = "your_googleplus"
   FacebookID = "your_facebook"
-  Name = "your_name"
-  HeaderUsername = "username"
-  HeaderHostname = "hostname"
-  Email = "your_email"
+  Name = "Igor_Martins"
+  HeaderUsername = "igorms"
+  HeaderHostname = "havok1305"
+  Email = "havok1305@gmail.com"
   About = "info_about_you"
-  ProfilePicture = "https://pbs.twimg.com/profile_images/485564678039302144/Fjxv6IbQ.png"
+  ProfilePicture = "http://chittagongit.com//images/nerd-icon-png/nerd-icon-png-8.jpg"
   GoogleAnalytics = "your_google_analytics_id"
 
 [menu]
